@@ -2,6 +2,10 @@
 
 Sample GAE/Go SE application to handle slack slash command and interactive message.
 
+## Demo
+
+![deploycommand mov](https://user-images.githubusercontent.com/6121271/40494986-1d006294-5fb1-11e8-9722-fbf5eaf3fc91.gif)
+
 ## Deploy
 
 ### Prepare
